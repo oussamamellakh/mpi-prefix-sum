@@ -19,5 +19,5 @@ This repository contains an implementation of a parallel prefix sum using MPI.
 1. Ensure you have an MPI environment set up.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mpi-prefix-sum.git
+   git clone https://github.com/yourusername/Mpi-prefix-sum.git
    cd mpi-prefix-sum
